@@ -1,0 +1,11 @@
+{
+  "name": "plano-fenix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generador de planos NOM-020-STPS-2011 extraído de FenixMex. Página estática (index.html), sin compilación ni servidor.",
+  "scripts": {
+    "test": "node --test --test-concurrency=1 pruebas/",
+    "comparar": "node pruebas/comparar.js",
+    "muestras": "node pruebas/datos/crear-muestras.js"
+  }
+}

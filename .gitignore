@@ -1,0 +1,19 @@
+# plano-fenix · lo que NO va en el repositorio
+
+# App original de FenixMex (18 MB; trae la configuración de Firebase del expediente).
+# Solo la usa la prueba de comparación (pruebas/comparar.test.js), que se salta sola si no está.
+referencia/
+
+# Imágenes intermedias de la comparación: se rehacen con «npm run comparar» (necesita referencia/).
+# En el repositorio quedan muestras/comparacion.json y las imágenes *-lado-a-lado.png como evidencia.
+muestras/*-original.png
+muestras/*-nuevo.png
+muestras/*-diferencias.png
+
+# dependencias y archivos del sistema
+node_modules/
+npm-debug.log*
+__pycache__/
+.DS_Store
+Thumbs.db
+desktop.ini

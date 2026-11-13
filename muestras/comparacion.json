@@ -1,0 +1,102 @@
+{
+ "fecha": "2026-11-13T05:46:57.059Z",
+ "dpi": 110,
+ "umbral": "un píxel cuenta como distinto si algún canal difiere más de 40/255",
+ "resultados": [
+  {
+   "ancho": 1870,
+   "alto": 1210,
+   "distintos": 0,
+   "pct": 0,
+   "tam_a": [
+    1224,
+    792
+   ],
+   "tam_b": [
+    1224,
+    792
+   ],
+   "nombre": "plano-ejemplo-COM-01",
+   "archivos": {
+    "original": "PLANO COM-01 SERVICIO LOMAS ESTRELLA SA DE CV.pdf",
+    "nuevo": "PLANO COM-01 SERVICIO LOMAS ESTRELLA SA DE CV.pdf"
+   }
+  },
+  {
+   "ancho": 1870,
+   "alto": 1210,
+   "distintos": 0,
+   "pct": 0,
+   "tam_a": [
+    1224,
+    792
+   ],
+   "tam_b": [
+    1224,
+    792
+   ],
+   "nombre": "plano-completa-COM-01",
+   "archivos": {
+    "original": "PLANO COM-01 FOCAS INDUSTRIALES SA DE CV.pdf",
+    "nuevo": "PLANO COM-01 FOCAS INDUSTRIALES SA DE CV.pdf"
+   }
+  },
+  {
+   "ancho": 1870,
+   "alto": 1210,
+   "distintos": 0,
+   "pct": 0,
+   "tam_a": [
+    1224,
+    792
+   ],
+   "tam_b": [
+    1224,
+    792
+   ],
+   "nombre": "plano-completa-COM-02",
+   "archivos": {
+    "original": "PLANO COM-02 FOCAS INDUSTRIALES SA DE CV.pdf",
+    "nuevo": "PLANO COM-02 FOCAS INDUSTRIALES SA DE CV.pdf"
+   }
+  },
+  {
+   "ancho": 1210,
+   "alto": 935,
+   "distintos": 0,
+   "pct": 0,
+   "tam_a": [
+    792,
+    612
+   ],
+   "tam_b": [
+    792,
+    612
+   ],
+   "nombre": "rutas-completa",
+   "archivos": {
+    "original": "expediente original, hoja 118",
+    "nuevo": "RUTAS DE EVACUACION FOCAS INDUSTRIALES SA DE CV.pdf"
+   }
+  },
+  {
+   "ancho": 1870,
+   "alto": 1210,
+   "distintos": 0,
+   "pct": 0,
+   "tam_a": [
+    1224,
+    792
+   ],
+   "tam_b": [
+    1224,
+    792
+   ],
+   "nombre": "plano-completa-COM-01-hoja-expediente",
+   "archivos": {
+    "original": "expediente original, hoja 31",
+    "nuevo": "PLANO COM-01 FOCAS INDUSTRIALES SA DE CV.pdf"
+   }
+  }
+ ]
+}
